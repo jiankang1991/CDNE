@@ -8,11 +8,11 @@ This repo contains the codes for the JSTARS paper: [Deep Hashing based on Class-
 
 
 <p align="center">
-<img src="./Selection_005.png" alt="drawing" width="400"/>
+<img src="./Selection_005.png" alt="drawing" width="500"/>
 </p>
 
 <p align="center">
-<img src="./Selection_001.png" alt="drawing" width="400"/>
+<img src="./Selection_001.png" alt="drawing" width="500"/>
 </p>
 
 ## Usage
