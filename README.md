@@ -4,7 +4,7 @@
 
 ---
 
-This repo contains the codes for the JSTARS paper: [Deep Hashing based on Class-Discriminated Neighborhood Embedding](). we propose a new deep-hashing technique based on the class-discriminated neighborhood embedding (CDNE), which can properly capture the locality structures among the RS scenes and distinguish images class-wisely in the Hamming space. The proposed method achieves the state-of-the-art performance on RS image retrieval. An illustration of the proposed method is displayed as follows:
+This repo contains the codes for the JSTARS paper: [Deep Hashing based on Class-Discriminated Neighborhood Embedding](https://ieeexplore.ieee.org/document/9210177). we propose a new deep-hashing technique based on the class-discriminated neighborhood embedding (CDNE), which can properly capture the locality structures among the RS scenes and distinguish images class-wisely in the Hamming space. The proposed method achieves the state-of-the-art performance on RS image retrieval. An illustration of the proposed method is displayed as follows:
 
 
 <p align="center">
